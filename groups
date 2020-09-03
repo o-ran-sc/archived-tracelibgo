@@ -1,4 +1,3 @@
 # UUID                                                                     	Group Name
 #
 1c97859836abf4ce4681911e23b0e2da94637baa                                   	saml/oran-gerrit-tracelibgo-committers
-ldap:cn=oran-gerrit-tracelibgo-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-tracelibgo-committers
